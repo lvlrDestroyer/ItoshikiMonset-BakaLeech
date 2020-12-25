@@ -1,4 +1,12 @@
 {
-  "name": "BakaLeech by X-Noid🤐",
-  "repository": "https://github.com/X-Gorn/ItoshikiMonset-BakaLeech"
+  "name": "Torrent to TD",
+  "repository": "https://github.com/iykoou/torrenttogd",
+  "website": "https://github.com/iykoou/torrenttogd",
+  "stack": "container",
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }
 }
